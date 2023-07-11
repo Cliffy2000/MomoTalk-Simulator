@@ -22,7 +22,7 @@ MomoTalk模拟器的开发理念是让大家能够很轻松地做出贴合游戏
 
 
 
-MomoTalk模拟器的开源链接是https://github.com/Cliffy2000/MomoTalk-Simulator，如果大家遇到了bug或者有功能上的建议，欢迎来与我联系。
+如果大家遇到了bug或者有功能上的建议，欢迎来与我联系。
 
 
 
